@@ -1,0 +1,47 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Relates),Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Link),Custom field (Impact),Custom field (Issue color),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story point estimate),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field ([CHART] Date of First Response),Status Category
+SEO URL not working properly,RET-10,10009,Bug,To Do,RET,RETAIL,software,rohit,620694d15d18ad00729af86f,,Medium,,,,rohit,620694d15d18ad00729af86f,rohit,620694d15d18ad00729af86f,15/Feb/22 2:19 PM,18/Feb/22 4:05 PM,18/Feb/22 4:47 PM,,,0,"SEO URL is not working properly
+
+Steps To Reproduce
+
+1.
+
+# Navigate to the 
+
+[http://retailm1.upskills.in/admin|http://retailm1.upskills.in/admin|smart-link] 
+
+2. Click on Catlog Tab
+
+3..Add new manufacturer tab
+
+Expected Result
+
+user should add url unique with no space
+
+Actual Results
+
+accept same url with space .
+
+!image-20220215-085800.png|width=1278,height=514!",,rohit,620694d15d18ad00729af86f,,,,,,,,,RET-16,15/Feb/22 2:28 PM;ug:0ed4f1b2-21e9-4c20-9b9e-1d2dc7dae7aa;image-20220215-085800.png;https://rohitjsr.atlassian.net/secure/attachment/10001/image-20220215-085800.png,,,,,,{},,,,0|hzzzzg:g,,RET Sprint 1,,,,,,,To Do
+Login button is not working,RET-3,10002,Bug,To Do,RET,RETAIL,software,rohit,620694d15d18ad00729af86f,,Medium,,rohit,620694d15d18ad00729af86f,rohit,620694d15d18ad00729af86f,rohit,620694d15d18ad00729af86f,15/Feb/22 12:42 PM,18/Feb/22 11:03 AM,16/Feb/22 1:05 PM,,,0,"Login button is not working
+
+
+
+Steps to Reproduce
+
+1.Navigate to the application
+
+2. Enter valid user name and password 
+
+3. Click on login button 
+
+Expected Result 
+
+User should be navigated to the dashboard .
+
+Actual Results
+
+Login button is not working.
+
+screenshot: 
+
+!image-20220215-072437.png|width=408,height=450!",,rohit,620694d15d18ad00729af86f,,,,,,,,,,15/Feb/22 12:54 PM;ug:0ed4f1b2-21e9-4c20-9b9e-1d2dc7dae7aa;image-20220215-072437.png;https://rohitjsr.atlassian.net/secure/attachment/10000/image-20220215-072437.png,,,,,,{},,,,0|i0002f:,,,,,,,,,To Do
